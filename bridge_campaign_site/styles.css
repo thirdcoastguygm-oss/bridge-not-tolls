@@ -2,3 +2,6 @@
 
 /* Voluntary campaign contribution link */
 .coffee-nav{display:inline-flex;align-items:center;justify-content:center;background:#ffdd00;color:#17283a!important;border-radius:5px;padding:9px 13px;font-weight:800;white-space:nowrap;text-decoration:none}.coffee-nav:hover,.coffee-nav:focus-visible{background:#f3c900;color:#17283a!important;outline-offset:3px}
+
+/* Privacy notice above main navigation */
+.privacy-banner{background:#e9f2f6;color:#173047;border-bottom:1px solid #c6d9e4;font-size:.78rem;line-height:1.45;text-align:center;padding:7px 0}.privacy-banner strong{font-weight:800}.privacy-banner a{text-decoration:underline;text-underline-offset:2px}@media(max-width:640px){.privacy-banner{font-size:.72rem;padding:8px 0}}
